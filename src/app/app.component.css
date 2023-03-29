@@ -1,0 +1,16 @@
+footer{
+    text-align: center;
+    padding: 40px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(215, 191, 214);
+    position: sticky;
+}
+h1{
+    color: brown;
+    border-collapse: collapse;
+    /* width: 30%;
+    border-radius: 30px; */
+    border-style:groove;
+}

@@ -1,0 +1,16 @@
+table,th,td{
+    border: 2px solid skyblue;
+    /* border-collapse: collapse;
+    width: 30%;
+    border-radius: 30px;
+    border-style:groove;
+} */
+
+}
+th{
+    text-align: center;
+    background-color: rgb(110, 134, 193);
+}
+td{
+    text-align: center;
+}
